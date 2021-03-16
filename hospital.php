@@ -17,26 +17,26 @@
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Diseases
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <li><a class="dropdown-item" href="infectious.html">Infectious </a></li>
-                    <li><a class="dropdown-item" href="noninfectious.html">Non Infectious</a></li>
+                  <li><a class="dropdown-item" href="infectious.php">Infectious </a></li>
+                    <li><a class="dropdown-item" href="noninfectious.php">Non Infectious</a></li>
                     
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="hospital.html">Hospitals</a>
+                <a class="nav-link" href="hospital.php">Hospitals</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.php">Contact</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About Us</a>
+                <a class="nav-link" href="about.php">About Us</a>
               </li>
              
             </ul>
